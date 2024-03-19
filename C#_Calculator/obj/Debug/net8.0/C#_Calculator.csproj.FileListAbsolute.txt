@@ -1,0 +1,15 @@
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\bin\Debug\net8.0\C#_Calculator.exe
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\bin\Debug\net8.0\C#_Calculator.deps.json
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\bin\Debug\net8.0\C#_Calculator.runtimeconfig.json
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\bin\Debug\net8.0\C#_Calculator.dll
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\bin\Debug\net8.0\C#_Calculator.pdb
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.AssemblyInfoInputs.cache
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.AssemblyInfo.cs
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.dll
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\refint\C#_Calculator.dll
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.pdb
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.genruntimeconfig.cache
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\ref\C#_Calculator.dll
+C:\Users\emman\OneDrive\Desktop\College work\C#\Classwork\C#_Calculator\obj\Debug\net8.0\C#_Calculator.sourcelink.json
